@@ -1,3 +1,5 @@
 # README
 
-Project for a Soundscape Narrative project, part of [Ben Miller's Composing Digital Media](https://benmiller314.github.io/cdm2023spring) course. More to come!
+## We've moved!
+
+Please find development for this project at (https://github.com/BenA03/adams-audio-narrative-2023-spring)[https://github.com/BenA03/adams-audio-narrative-2023-spring]
