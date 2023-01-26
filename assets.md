@@ -2,21 +2,21 @@
 
 | Asset needed | Intended source | Found/Recorded? | From where?
 | ------------ | --------------- | --------------- | ----------- |
-| Front door opening | Stock audio | No | |
-| Front door closing | Stock audio | No | |
-| Male voice, older | Family/friend | No | |
-| Female voice, older | Family/friend | No | |
-| Voice, younger | Family/friend | No | |
-| Footsteps on hardwood (bonus points for squeaking) | Self-record, Cathedral of Learning | No | |
-| Settling into courch | Self-record, use dorm furniture | No | |
+| Front door opening | Stock audio | Yes | https://freesound.org/people/JakLocke/sounds/261091/ |
+| Front door closing | Stock audio | Yes | https://freesound.org/people/JakLocke/sounds/261091/ |
+| Front door unlocking | Stock audio | Yes | https://freesound.org/people/angelkunev/sounds/519065/ |
+| Taking off shoes | Self-record | No | |
+| Bare footsteps on hardwood (bonus points for squeaking) | Self-record or Stock | Yes | https://freesound.org/people/16H_Panska_Skerl_Jan/sounds/499061/ |
+| Opening refrigerator | Self-record or stock audio | Yes | https://freesound.org/people/brytonentertainment/sounds/369175/ |
+| Taking can out of refrigerator | Self-record or stock audio | No |
+| Opening soda can | Self-record or stock audio | No | 
+| Settling into couch | Self-record, use dorm furniture | No | |
+| Remote control sounds | Self-record | No | |
 | Backpack rustling | Self-record, use backpack | No | |
+| Writing on paper (doing homework) | Self-record | No | |
+| Text tones | Self-record | No | |
+| Typing soungs (like on an iPhone) | Self-record | No | |
 | Ambient television | Self-record, use television | No | |
-| Putting groceries away in a refrigerator | Self-record, use leftover take-out bags and dorm fridge | No | |
-| Pizza boxes rustling, opening | Stock audio | No | |
-| Sounds of eating | Self-record | No | |
-| Opening cabinet, taking out plates | Self-record, use plates | No | |
-| Putting plates on table | Self-record, use plates | No | |
-| Setting table | Self-record, use silverware | No | |
 | Flicking lightswitch | Self-record, use lightswitch | No | |
 | Untying shoes | Self-record, use shoes | No | |
-| Ambient noise (some air conditioning, white noise) | Self-record or stock audio | No | |
+| Ambient rain) | Stock audio | Yes | https://freesound.org/people/Vincent2Cent/sounds/346946/ |
