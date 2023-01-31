@@ -13,7 +13,7 @@
 | Taking can out of refrigerator | Self-record or stock audio | No |
 | Opening soda can | Self-record or stock audio | No | 
 | Settling into couch | Self-record, use dorm furniture | Yes | https://freesound.org/people/sidequesting/sounds/541544/ |
-| Remote control sounds | Self-record | No | |
+| Remote control sounds | Stock sound | Yes | https://freesound.org/people/redjim/sounds/32578/, https://freesound.org/people/planetcomedy/sounds/334137/ https://freesound.org/people/SpliceSound/sounds/188197/ |
 | Backpack rustling | Self-record, use backpack | No | |
 | Writing on paper (doing homework) | Self-record | No | |
 | Text tones | Self-record | No | |
