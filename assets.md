@@ -20,6 +20,7 @@
 | Ambient television | Self-record, use television | Yes | See section below for clips used |
 | Flicking lightswitch | Self-record, use lightswitch | No | |
 | Ambient rain | Stock audio | Yes | https://freesound.org/people/Vincent2Cent/sounds/346946/ |
+| Ominous hum | Stock audio | Yes | https://freesound.org/people/david_werecat/sounds/231657/ |
 
 News clips, claim of Fair Use
 - CBS, https://www.youtube.com/watch?v=hW4p_cmz1qU
