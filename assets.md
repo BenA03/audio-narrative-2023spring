@@ -21,4 +21,10 @@
 | Ambient television | Self-record, use television | No | |
 | Flicking lightswitch | Self-record, use lightswitch | No | |
 | Untying shoes | Self-record, use shoes | No | |
-| Ambient rain) | Stock audio | Yes | https://freesound.org/people/Vincent2Cent/sounds/346946/ |
+| Ambient rain | Stock audio | Yes | https://freesound.org/people/Vincent2Cent/sounds/346946/ |
+
+News clips, claim of Fair Use
+- CBS, https://www.youtube.com/watch?v=hW4p_cmz1qU
+- WSJ, https://www.youtube.com/watch?v=42s8pULEbZM
+- TV static, https://freesound.org/people/Hope-Sounds/sounds/502666/
+- CBS, https://www.youtube.com/watch?v=sLJnbj6YiG8
