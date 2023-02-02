@@ -12,8 +12,8 @@
 | Eating chips | Stock audio | Yes | https://freesound.org/people/ultradust/sounds/167190/ | CC Attribution 4.0 License |
 | Bare footsteps on hardwood (bonus points for squeaking) | Self-record or Stock | Yes | https://freesound.org/people/16H_Panska_Skerl_Jan/sounds/499061/ | Creative Commons 0 License |
 | Opening refrigerator | Self-record or stock audio | Yes | https://freesound.org/people/brytonentertainment/sounds/369175/ | Creative Commons 0 License |
-| Taking can out of refrigerator | Self-record or stock audio | No |
-| Opening soda can | Self-record or stock audio | No | 
+| Opening soda | Self-record or stock audio | Yes | https://freesound.org/people/ACorcuera/sounds/189969/ | Creative Commons Attribution 3.0 License |
+| Drinking soda | Self-record or stock audio | Yes | https://freesound.org/people/SilverIllusionist/sounds/411172/ | CC Attribution 4.0 License |
 | Settling into couch | Stock audio | Yes | https://freesound.org/people/sidequesting/sounds/541544/ | Creative Commons 0 License |
 | Remote control sounds | Stock audio | Yes | https://freesound.org/people/redjim/sounds/32578/, https://freesound.org/people/planetcomedy/sounds/334137/ https://freesound.org/people/SpliceSound/sounds/188197/ |
 | Text tones | Self-record | Yes | Recorded tones through computer mic | -- |
