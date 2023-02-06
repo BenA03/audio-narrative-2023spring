@@ -6,7 +6,7 @@
 | ------------ | --------------- | --------------- | ----------- | ----------- |
 | Front door opening and closing | Stock audio | Yes | https://freesound.org/people/JakLocke/sounds/261091/ | CC Attribution 4.0 License |
 | Front door unlocking | Stock audio | Yes | https://freesound.org/people/angelkunev/sounds/519065/ | CC Noncommercial 4.0 License |
-| Squeaky, wet footstepds | Stock audio | Yes | https://freesound.org/people/j1987/sounds/335760/ | Creative Commons 0 License |
+| Squeaky, wet footsteps | Stock audio | Yes | https://freesound.org/people/j1987/sounds/335760/ | Creative Commons 0 License |
 | Deep sigh (male) | Self-record | Yes | Exhaled into microphone | -- |
 | Taking off shoes | Stock audio | Yes | https://freesound.org/people/jpkweli/sounds/154763/ | Creative Commons 0 License |
 | Eating chips | Stock audio | Yes | https://freesound.org/people/ultradust/sounds/167190/ | CC Attribution 4.0 License |
@@ -20,7 +20,6 @@
 | Typing sounds (like on an iPhone) | Self-record | No | | |
 | Ambient television | Stock audio | Yes | See section below for clips used | Fair use claim |
 | Ambient rain | Stock audio | Yes | https://freesound.org/people/Vincent2Cent/sounds/346946/ | Creative Commons 0 License |
-| Ominous hum | Stock audio | Yes | https://freesound.org/people/david_werecat/sounds/231657/ | Creative Commons 0 License |
 
 ## News clips
 
