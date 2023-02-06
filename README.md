@@ -28,4 +28,4 @@ Below is a list of sources used for this project. Sources are additionally liste
 - Audio from "[Cheerios/V-8 (1960)](https://www.youtube.com/watch?v=e7ZWzKpgh4A&list=PLvCmem6scWG3lMmMInBq4hN-IaSBXJKU-&index=2)" republished by [Public Domain Stuff](https://www.youtube.com/@publicdomainstuff5842) exists within the Public Domain.
 - Audio from "[Breakfast Pals (1939)](https://www.youtube.com/watch?v=5547iZ85AVE&feature=youtu.be)" republished by [Public Domain Stuff](https://www.youtube.com/@publicdomainstuff5842) exists within the Public Domain.
 
-A big thanks to the freesound community and other creators for their excellent clips!
+All other sounds present within the project are recorded by me. A big thanks to the freesound community and other creators for their excellent clips!
