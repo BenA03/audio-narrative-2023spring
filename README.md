@@ -1,7 +1,7 @@
 # README
 
 ## About
-This is a Soundscape Narrative project developed as a part of [Dr. Ben Miller's Composing Digital Media](https://benmiller314.github.io/cdm2023spring) course titled "_". Please enjoy!
+This is a Soundscape Narrative project developed as a part of [Dr. Ben Miller's Composing Digital Media](https://benmiller314.github.io/cdm2023spring) course titled "Spent on A Rainy Day". Please enjoy!
 
 ## Sources
 
